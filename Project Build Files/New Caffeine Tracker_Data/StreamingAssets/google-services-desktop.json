@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989386590749",
+    "firebase_url": "https://new-caffeine-tracker-default-rtdb.firebaseio.com",
+    "project_id": "new-caffeine-tracker",
+    "storage_bucket": "new-caffeine-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989386590749:android:18f0a1e6b2b230656314f4",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.NewCaffeineTracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989386590749-q162685v8q6ilgbvoj4k1kbluu58rl8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtBkzgyx4ubNKXyClX5pXXDIyhLO96uaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989386590749-q162685v8q6ilgbvoj4k1kbluu58rl8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "989386590749-6jma6vrbu4bmh06uk1b2gc4q3j4ktp2b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.NewCaffeineTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
